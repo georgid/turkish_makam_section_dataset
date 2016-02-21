@@ -1,0 +1,104 @@
+{
+    "section_annotations": [
+        {
+            "melodicStructure": "ARANAGME_1", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "time_unit": "sec", 
+            "name": "aranagme", 
+            "time": [
+                0.299797, 
+                23.656007
+            ]
+        }, 
+        {
+            "melodicStructure": "ARANAGME_1", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "time_unit": "sec", 
+            "name": "aranagme", 
+            "time": [
+                23.656007, 
+                47.355984
+            ]
+        }, 
+        {
+            "melodicStructure": "B1", 
+            "lyricStructure": "B1", 
+            "time_unit": "sec", 
+            "name": "zemin", 
+            "time": [
+                47.355984, 
+                68.789494
+            ]
+        }, 
+        {
+            "melodicStructure": "B2", 
+            "lyricStructure": "B1", 
+            "time_unit": "sec", 
+            "name": "zemin", 
+            "time": [
+                68.789494, 
+                90.147054
+            ]
+        }, 
+        {
+            "melodicStructure": "C1", 
+            "lyricStructure": "C1", 
+            "time_unit": "sec", 
+            "name": "nakarat", 
+            "time": [
+                90.147054, 
+                111.508612
+            ]
+        }, 
+        {
+            "melodicStructure": "D1", 
+            "lyricStructure": "C1", 
+            "time_unit": "sec", 
+            "name": "nakarat", 
+            "time": [
+                111.508612, 
+                133.056045
+            ]
+        }, 
+        {
+            "melodicStructure": "E1", 
+            "lyricStructure": "D1", 
+            "time_unit": "sec", 
+            "name": "meyan", 
+            "time": [
+                133.056045, 
+                154.685422
+            ]
+        }, 
+        {
+            "melodicStructure": "F1", 
+            "lyricStructure": "D1", 
+            "time_unit": "sec", 
+            "name": "meyan", 
+            "time": [
+                154.685422, 
+                176.160903
+            ]
+        }, 
+        {
+            "melodicStructure": "C1", 
+            "lyricStructure": "C1", 
+            "time_unit": "sec", 
+            "name": "nakarat", 
+            "time": [
+                176.160903, 
+                197.290618
+            ]
+        }, 
+        {
+            "melodicStructure": "D2", 
+            "lyricStructure": "C1", 
+            "time_unit": "sec", 
+            "name": "nakarat", 
+            "time": [
+                197.290618, 
+                218.492284
+            ]
+        }
+    ]
+}

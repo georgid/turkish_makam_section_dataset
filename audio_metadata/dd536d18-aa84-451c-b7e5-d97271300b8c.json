@@ -1,60 +1,103 @@
 {
-    "instrumentation": "solo singing", 
-    "work_relations": [
-        {
-            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
-            "title": "Bir \u0130htimal Daha Var"
-        }
-    ], 
-    "symbTr": "nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin", 
-    "title": "Bir \u0130htimal Daha Var", 
     "section_annotations": [
         {
+            "melodicStructure": "A1", 
+            "lyricStructure": "A1", 
             "time_unit": "sec", 
-            "name": "Taksim", 
+            "name": "zemin", 
             "time": [
-                0.0, 
-                69.271189
+                69.5205, 
+                84.2
             ]
         }, 
         {
+            "melodicStructure": "B1", 
+            "lyricStructure": "B1", 
             "time_unit": "sec", 
-            "name": "Zemin", 
+            "name": "zemin2", 
             "time": [
-                69.271189, 
-                98.414557
+                84.2, 
+                98.499
             ]
         }, 
         {
+            "melodicStructure": "C1", 
+            "lyricStructure": "C1", 
             "time_unit": "sec", 
-            "name": "Nakarat", 
+            "name": "nakarat", 
             "time": [
-                98.414557, 
-                126.689922
+                98.499, 
+                113.01
             ]
         }, 
         {
+            "melodicStructure": "D1", 
+            "lyricStructure": "D1", 
             "time_unit": "sec", 
-            "name": "Nakarat", 
+            "name": "nakarat2", 
             "time": [
-                126.689922, 
-                155.261023
+                113.01, 
+                126.9
             ]
         }, 
         {
+            "melodicStructure": "C1", 
+            "lyricStructure": "C1", 
             "time_unit": "sec", 
-            "name": "Meyan", 
+            "name": "nakarat", 
             "time": [
-                155.261023, 
-                184.892162
+                126.9, 
+                141.32
             ]
         }, 
         {
+            "melodicStructure": "E1", 
+            "lyricStructure": "D1", 
             "time_unit": "sec", 
-            "name": "Nakarat2", 
+            "name": "nakarat2", 
             "time": [
-                184.892162, 
-                207.859655
+                141.32, 
+                155.5737
+            ]
+        }, 
+        {
+            "melodicStructure": "F1", 
+            "lyricStructure": "E1", 
+            "time_unit": "sec", 
+            "name": "meyan", 
+            "time": [
+                155.5737, 
+                170.0
+            ]
+        }, 
+        {
+            "melodicStructure": "G1", 
+            "lyricStructure": "F1", 
+            "time_unit": "sec", 
+            "name": "meyan2", 
+            "time": [
+                170.0, 
+                184.6915
+            ]
+        }, 
+        {
+            "melodicStructure": "C1", 
+            "lyricStructure": "C1", 
+            "time_unit": "sec", 
+            "name": "nakarat", 
+            "time": [
+                184.6451, 
+                199.35
+            ]
+        }, 
+        {
+            "melodicStructure": "I1", 
+            "lyricStructure": "D1", 
+            "time_unit": "sec", 
+            "name": "nakarat2", 
+            "time": [
+                199.35, 
+                206.8898
             ]
         }
     ]

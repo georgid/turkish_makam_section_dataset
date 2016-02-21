@@ -6,72 +6,88 @@
             "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
         }
     ], 
-    "symbTr": "nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey", 
-    "title": "Bakm\u0131yor \u00c7e\u015fm-i Siyah Feryade", 
     "section_annotations": [
         {
-            "time_unit": "sec", 
-            "name": "Zemin", 
+            "melodicStructure": "A1", 
             "time": [
                 0.968526, 
                 11.59327
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "A1", 
+            "name": "Zemin"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Zemin", 
+            "melodicStructure": "A2", 
             "time": [
                 11.59327, 
                 22.910647
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "A1", 
+            "name": "Zemin"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat", 
+            "melodicStructure": "B1", 
             "time": [
                 22.910647, 
                 34.425506
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B1", 
+            "name": "Nakarat"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat2", 
+            "melodicStructure": "C1", 
             "time": [
                 34.425506, 
                 45.78935
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B1", 
+            "name": "Nakarat2"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Meyan", 
+            "melodicStructure": "D1", 
             "time": [
                 45.78935, 
                 58.314844
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "C1", 
+            "name": "Meyan"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Gazel", 
+            "melodicStructure": "", 
             "time": [
                 58.314844, 
                 180.601768
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "", 
+            "name": "Gazel"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat3", 
+            "melodicStructure": "E1", 
             "time": [
                 180.601768, 
                 192.014982
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B1", 
+            "name": "Nakarat3"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat2", 
+            "melodicStructure": "C2", 
             "time": [
                 192.014982, 
                 202.766055
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B1", 
+            "name": "Nakarat2"
         }
-    ]
+    ], 
+    "symbTr": "nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey", 
+    "title": "Bakm\u0131yor \u00c7e\u015fm-i Siyah Feryade"
 }

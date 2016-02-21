@@ -6,80 +6,98 @@
             "title": "Koklasam Sa\u00e7lar\u0131n\u0131"
         }
     ], 
-    "symbTr": "nihavent--sarki--aksak--koklasam_saclarini--artaki_candan", 
-    "title": "Nihavend Aksak \u015eark\u0131", 
     "section_annotations": [
         {
-            "time_unit": "sec", 
-            "name": "Zemin", 
+            "melodicStructure": "B1", 
             "time": [
                 0.561089, 
                 18.066189
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B1", 
+            "name": "Zemin"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Zemin", 
+            "melodicStructure": "B2", 
             "time": [
                 18.066189, 
                 36.19472
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B1", 
+            "name": "Zemin"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat", 
+            "melodicStructure": "C1", 
             "time": [
                 36.19472, 
                 55.02684
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "C1", 
+            "name": "Nakarat"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat2", 
+            "melodicStructure": "D1", 
             "time": [
                 55.02684, 
                 73.671931
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "C1", 
+            "name": "Nakarat2"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Meyan", 
+            "melodicStructure": "E1", 
             "time": [
                 73.671931, 
                 92.250225
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "D1", 
+            "name": "Meyan"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Meyan2", 
+            "melodicStructure": "F1", 
             "time": [
                 92.250225, 
                 111.398514
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "D1", 
+            "name": "Meyan2"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat", 
+            "melodicStructure": "C2", 
             "time": [
                 111.398514, 
                 130.635866
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "E1", 
+            "name": "Nakarat"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat2", 
+            "melodicStructure": "D2", 
             "time": [
                 130.635866, 
                 150.478837
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "E1", 
+            "name": "Nakarat2"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Unsure", 
+            "melodicStructure": "", 
             "time": [
                 150.478837, 
                 158.453
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "", 
+            "name": "Unsure"
         }
-    ]
+    ], 
+    "symbTr": "nihavent--sarki--aksak--koklasam_saclarini--artaki_candan", 
+    "title": "Nihavend Aksak \u015eark\u0131"
 }
