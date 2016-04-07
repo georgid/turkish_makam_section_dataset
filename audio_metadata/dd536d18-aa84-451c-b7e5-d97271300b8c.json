@@ -1,104 +1,73 @@
 {
+    "instrumentation": "solo singing", 
+    "work_relations": [
+        {
+            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
+            "title": "Bir \u0130htimal Daha Var"
+        }
+    ], 
     "section_annotations": [
         {
-            "melodicStructure": "A1", 
-            "lyricStructure": "A1", 
-            "time_unit": "sec", 
-            "name": "zemin", 
+            "melodicStructure": "", 
             "time": [
-                69.5205, 
-                84.2
-            ]
+                0.0, 
+                69.271189
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "", 
+            "name": "Taksim"
         }, 
         {
-            "melodicStructure": "B1", 
+            "melodicStructure": "B2", 
+            "time": [
+                69.271189, 
+                98.414557
+            ], 
+            "time_unit": "sec", 
             "lyricStructure": "B1", 
-            "time_unit": "sec", 
-            "name": "zemin2", 
-            "time": [
-                84.2, 
-                98.499
-            ]
+            "name": "Zemin"
         }, 
         {
             "melodicStructure": "C1", 
+            "time": [
+                98.414557, 
+                126.689922
+            ], 
+            "time_unit": "sec", 
             "lyricStructure": "C1", 
-            "time_unit": "sec", 
-            "name": "nakarat", 
-            "time": [
-                98.499, 
-                113.01
-            ]
-        }, 
-        {
-            "melodicStructure": "D1", 
-            "lyricStructure": "D1", 
-            "time_unit": "sec", 
-            "name": "nakarat2", 
-            "time": [
-                113.01, 
-                126.9
-            ]
+            "name": "Nakarat"
         }, 
         {
             "melodicStructure": "C1", 
+            "time": [
+                126.689922, 
+                155.261023
+            ], 
+            "time_unit": "sec", 
             "lyricStructure": "C1", 
-            "time_unit": "sec", 
-            "name": "nakarat", 
-            "time": [
-                126.9, 
-                141.32
-            ]
-        }, 
-        {
-            "melodicStructure": "E1", 
-            "lyricStructure": "D1", 
-            "time_unit": "sec", 
-            "name": "nakarat2", 
-            "time": [
-                141.32, 
-                155.5737
-            ]
+            "name": "Nakarat"
         }, 
         {
             "melodicStructure": "F1", 
+            "time": [
+                155.261023, 
+                184.892162
+            ], 
+            "time_unit": "sec", 
             "lyricStructure": "E1", 
-            "time_unit": "sec", 
-            "name": "meyan", 
-            "time": [
-                155.5737, 
-                170.0
-            ]
+            "name": "Meyan"
         }, 
         {
-            "melodicStructure": "G1", 
-            "lyricStructure": "F1", 
-            "time_unit": "sec", 
-            "name": "meyan2", 
+            "melodicStructure": "D1", 
             "time": [
-                170.0, 
-                184.6915
-            ]
-        }, 
-        {
-            "melodicStructure": "C1", 
-            "lyricStructure": "C1", 
+                184.892162, 
+                207.859655
+            ], 
             "time_unit": "sec", 
-            "name": "nakarat", 
-            "time": [
-                184.6451, 
-                199.35
-            ]
-        }, 
-        {
-            "melodicStructure": "I1", 
             "lyricStructure": "D1", 
-            "time_unit": "sec", 
-            "name": "nakarat2", 
-            "time": [
-                199.35, 
-                206.8898
-            ]
+            "name": "Nakarat2"
         }
-    ]
+    ], 
+    "symbTr": "nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin", 
+    "title": "Bir \u0130htimal Daha Var"
 }

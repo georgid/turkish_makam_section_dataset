@@ -6,80 +6,98 @@
             "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
         }
     ], 
-    "symbTr": "ussak--sarki--duyek--aksam_oldu_huzunlendim--semahat_ozdenses", 
-    "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim", 
     "section_annotations": [
         {
-            "time_unit": "sec", 
-            "name": "Taksim", 
+            "melodicStructure": "", 
             "time": [
                 0.26752, 
                 62.393939
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "", 
+            "name": "Taksim"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Zemin", 
+            "melodicStructure": "A1", 
             "time": [
                 62.393939, 
                 77.827796
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "A1", 
+            "name": "Zemin"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Zemin", 
+            "melodicStructure": "A2", 
             "time": [
                 77.827796, 
                 92.685456
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "A1", 
+            "name": "Zemin"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat", 
+            "melodicStructure": "B1", 
             "time": [
                 92.685456, 
                 107.090389
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B1", 
+            "name": "Nakarat"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat2", 
+            "melodicStructure": "C1", 
             "time": [
                 107.090389, 
                 123.059286
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B2", 
+            "name": "Nakarat2"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Meyan", 
+            "melodicStructure": "D1", 
             "time": [
                 123.059286, 
                 138.451986
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "C1", 
+            "name": "Meyan"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Meyan2", 
+            "melodicStructure": "E1", 
             "time": [
                 138.451986, 
                 154.503198
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "C1", 
+            "name": "Meyan2"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat", 
+            "melodicStructure": "B1", 
             "time": [
                 154.503198, 
                 168.578875
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B1", 
+            "name": "Nakarat"
         }, 
         {
-            "time_unit": "sec", 
-            "name": "Nakarat3", 
+            "melodicStructure": "B2", 
             "time": [
                 168.578875, 
                 181.913728
-            ]
+            ], 
+            "time_unit": "sec", 
+            "lyricStructure": "B2", 
+            "name": "Nakarat3"
         }
-    ]
+    ], 
+    "symbTr": "ussak--sarki--duyek--aksam_oldu_huzunlendim--semahat_ozdenses", 
+    "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim"
 }
