@@ -1,0 +1,696 @@
+{
+    "symbtr": "rast--sarki--sofyan--gelmez_oldu--dramali_hasan_hasguler", 
+    "makam": {
+        "attribute_key": "rast", 
+        "symbtr_slug": "rast"
+    }, 
+    "form": {
+        "attribute_key": "sarki", 
+        "symbtr_slug": "sarki"
+    }, 
+    "lyricist": {}, 
+    "tonic": "G4", 
+    "rhythmic_structure": [
+        {
+            "endNote": 419, 
+            "startNote": 1, 
+            "usul": {
+                "symbtr_internal_id": 6, 
+                "attribute_key": "sofyan", 
+                "mertebe": 4, 
+                "mu2_name": "Sofyan", 
+                "number_of_pulses": 4
+            }, 
+            "tempo": {
+                "unit": "bpm", 
+                "value": 360
+            }
+        }
+    ], 
+    "phrase_annotations": [], 
+    "number_of_notes": 419, 
+    "composer": {
+        "symbtr_slug": "dramali_hasan_hasguler"
+    }, 
+    "duration": {
+        "unit": "second", 
+        "value": 138.678
+    }, 
+    "segmentations": [
+        {
+            "start_note": 2, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 39, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 0
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 40, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 77, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 1
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 78, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Gelmez_oldu hi\u00e7 sesin  S\u00f6yle can\u0131m nerdesin  Uzaklara m\u0131 gittin  Hangi gizli yerdesin  ", 
+            "melodic_structure": "B1", 
+            "lyric_structure": "B1", 
+            "end_note": 105, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 2
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 3
+                }, 
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 4
+                }, 
+                {
+                    "lyric_structure": "E1", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 5
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 106, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Gelmez_oldu hi\u00e7 sesin  S\u00f6yle can\u0131m nerdesin  Uzaklara m\u0131 gittin  Hangi gizli yerdesin  ", 
+            "melodic_structure": "C1", 
+            "lyric_structure": "B1", 
+            "end_note": 154, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 6
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 7
+                }, 
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 8
+                }, 
+                {
+                    "lyric_structure": "E1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 9
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 155, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Kalbim seni \u00f6zler  Yollar\u0131n\u0131 g\u00f6zler  Nerde verdi\u011fin s\u00f6zler  Ni\u00e7in neden gelmedin  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "C1", 
+            "end_note": 182, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "F1", 
+                    "melodic_structure": "G1", 
+                    "section_idx": 10
+                }, 
+                {
+                    "lyric_structure": "G1", 
+                    "melodic_structure": "H1", 
+                    "section_idx": 11
+                }, 
+                {
+                    "lyric_structure": "H1", 
+                    "melodic_structure": "D2", 
+                    "section_idx": 12
+                }, 
+                {
+                    "lyric_structure": "I1", 
+                    "melodic_structure": "E2", 
+                    "section_idx": 13
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 183, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Kalbim seni \u00f6zler  Yollar\u0131n\u0131 g\u00f6zler  Nerde verdi\u011fin s\u00f6zler  Ni\u00e7in neden gelmedin  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "C1", 
+            "end_note": 210, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "F1", 
+                    "melodic_structure": "G1", 
+                    "section_idx": 14
+                }, 
+                {
+                    "lyric_structure": "G1", 
+                    "melodic_structure": "H1", 
+                    "section_idx": 15
+                }, 
+                {
+                    "lyric_structure": "H1", 
+                    "melodic_structure": "D2", 
+                    "section_idx": 16
+                }, 
+                {
+                    "lyric_structure": "I1", 
+                    "melodic_structure": "E2", 
+                    "section_idx": 17
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 211, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 248, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 18
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 249, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 286, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 19
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 287, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "G\u00fczelim g\u00fcller a\u00e7s\u0131n  Elemler bizden ka\u00e7s\u0131n  Sevi\u015fip kokla\u015fmam\u0131z  Etrafa ne\u015fe sa\u00e7s\u0131n  ", 
+            "melodic_structure": "B1", 
+            "lyric_structure": "D1", 
+            "end_note": 314, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "J1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 20
+                }, 
+                {
+                    "lyric_structure": "K1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 21
+                }, 
+                {
+                    "lyric_structure": "L1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 22
+                }, 
+                {
+                    "lyric_structure": "M1", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 23
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 315, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "G\u00fczelim g\u00fcller a\u00e7s\u0131n  Elemler bizden ka\u00e7s\u0131n  Sevi\u015fip kokla\u015fmam\u0131z  Etrafa ne\u015fe sa\u00e7s\u0131n  ", 
+            "melodic_structure": "C1", 
+            "lyric_structure": "D1", 
+            "end_note": 363, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "J1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 24
+                }, 
+                {
+                    "lyric_structure": "K1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 25
+                }, 
+                {
+                    "lyric_structure": "L1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 26
+                }, 
+                {
+                    "lyric_structure": "M1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 27
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 364, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Kalbim seni \u00f6zler  Yollar\u0131n\u0131 g\u00f6zler  Nerde verdi\u011fin s\u00f6zler  Ni\u00e7in neden gelmedin  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "C1", 
+            "end_note": 391, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "F1", 
+                    "melodic_structure": "G1", 
+                    "section_idx": 28
+                }, 
+                {
+                    "lyric_structure": "G1", 
+                    "melodic_structure": "H1", 
+                    "section_idx": 29
+                }, 
+                {
+                    "lyric_structure": "H1", 
+                    "melodic_structure": "D2", 
+                    "section_idx": 30
+                }, 
+                {
+                    "lyric_structure": "I1", 
+                    "melodic_structure": "E2", 
+                    "section_idx": 31
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 392, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Kalbim seni \u00f6zler  Yollar\u0131n\u0131 g\u00f6zler  Nerde verdi\u011fin s\u00f6zler  Ni\u00e7in neden gelmedin  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "C1", 
+            "end_note": 419, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "F1", 
+                    "melodic_structure": "G1", 
+                    "section_idx": 32
+                }, 
+                {
+                    "lyric_structure": "G1", 
+                    "melodic_structure": "H1", 
+                    "section_idx": 33
+                }, 
+                {
+                    "lyric_structure": "H1", 
+                    "melodic_structure": "D2", 
+                    "section_idx": 34
+                }, 
+                {
+                    "lyric_structure": "I1", 
+                    "melodic_structure": "E2", 
+                    "section_idx": 35
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }
+    ], 
+    "usul": {
+        "attribute_key": "sofyan", 
+        "symbtr_slug": "sofyan"
+    }, 
+    "sections": [
+        {
+            "start_note": 2, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 39, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 40, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 77, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 78, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Gelmez_oldu hi\u00e7 sesin  ", 
+            "lyric_structure": "B1", 
+            "end_note": 84, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 85, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "S\u00f6yle can\u0131m nerdesin  ", 
+            "lyric_structure": "C1", 
+            "end_note": 91, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 92, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Uzaklara m\u0131 gittin  ", 
+            "lyric_structure": "D1", 
+            "end_note": 98, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 99, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Hangi gizli yerdesin  ", 
+            "lyric_structure": "E1", 
+            "end_note": 105, 
+            "melodic_structure": "E1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 106, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Gelmez_oldu hi\u00e7 sesin  ", 
+            "lyric_structure": "B1", 
+            "end_note": 112, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 113, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "S\u00f6yle can\u0131m nerdesin  ", 
+            "lyric_structure": "C1", 
+            "end_note": 119, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 120, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Uzaklara m\u0131 gittin  ", 
+            "lyric_structure": "D1", 
+            "end_note": 126, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 127, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Hangi gizli yerdesin  ", 
+            "lyric_structure": "E1", 
+            "end_note": 154, 
+            "melodic_structure": "F1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 155, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Kalbim seni \u00f6zler  ", 
+            "lyric_structure": "F1", 
+            "end_note": 161, 
+            "melodic_structure": "G1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 162, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Yollar\u0131n\u0131 g\u00f6zler  ", 
+            "lyric_structure": "G1", 
+            "end_note": 168, 
+            "melodic_structure": "H1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 169, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Nerde verdi\u011fin s\u00f6zler  ", 
+            "lyric_structure": "H1", 
+            "end_note": 175, 
+            "melodic_structure": "D2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 176, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Ni\u00e7in neden gelmedin  ", 
+            "lyric_structure": "I1", 
+            "end_note": 182, 
+            "melodic_structure": "E2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 183, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Kalbim seni \u00f6zler  ", 
+            "lyric_structure": "F1", 
+            "end_note": 189, 
+            "melodic_structure": "G1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 190, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Yollar\u0131n\u0131 g\u00f6zler  ", 
+            "lyric_structure": "G1", 
+            "end_note": 196, 
+            "melodic_structure": "H1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 197, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Nerde verdi\u011fin s\u00f6zler  ", 
+            "lyric_structure": "H1", 
+            "end_note": 203, 
+            "melodic_structure": "D2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 204, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Ni\u00e7in neden gelmedin  ", 
+            "lyric_structure": "I1", 
+            "end_note": 210, 
+            "melodic_structure": "E2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 211, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 248, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 249, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 286, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 287, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "G\u00fczelim g\u00fcller a\u00e7s\u0131n  ", 
+            "lyric_structure": "J1", 
+            "end_note": 293, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 294, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Elemler bizden ka\u00e7s\u0131n  ", 
+            "lyric_structure": "K1", 
+            "end_note": 300, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 301, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Sevi\u015fip kokla\u015fmam\u0131z  ", 
+            "lyric_structure": "L1", 
+            "end_note": 307, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 308, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Etrafa ne\u015fe sa\u00e7s\u0131n  ", 
+            "lyric_structure": "M1", 
+            "end_note": 314, 
+            "melodic_structure": "E1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 315, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "G\u00fczelim g\u00fcller a\u00e7s\u0131n  ", 
+            "lyric_structure": "J1", 
+            "end_note": 321, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 322, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Elemler bizden ka\u00e7s\u0131n  ", 
+            "lyric_structure": "K1", 
+            "end_note": 328, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 329, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Sevi\u015fip kokla\u015fmam\u0131z  ", 
+            "lyric_structure": "L1", 
+            "end_note": 335, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 336, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Etrafa ne\u015fe sa\u00e7s\u0131n  ", 
+            "lyric_structure": "M1", 
+            "end_note": 363, 
+            "melodic_structure": "F1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 364, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Kalbim seni \u00f6zler  ", 
+            "lyric_structure": "F1", 
+            "end_note": 370, 
+            "melodic_structure": "G1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 371, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Yollar\u0131n\u0131 g\u00f6zler  ", 
+            "lyric_structure": "G1", 
+            "end_note": 377, 
+            "melodic_structure": "H1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 378, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Nerde verdi\u011fin s\u00f6zler  ", 
+            "lyric_structure": "H1", 
+            "end_note": 384, 
+            "melodic_structure": "D2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 385, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Ni\u00e7in neden gelmedin  ", 
+            "lyric_structure": "I1", 
+            "end_note": 391, 
+            "melodic_structure": "E2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 392, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Kalbim seni \u00f6zler  ", 
+            "lyric_structure": "F1", 
+            "end_note": 398, 
+            "melodic_structure": "G1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 399, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Yollar\u0131n\u0131 g\u00f6zler  ", 
+            "lyric_structure": "G1", 
+            "end_note": 405, 
+            "melodic_structure": "H1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 406, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Nerde verdi\u011fin s\u00f6zler  ", 
+            "lyric_structure": "H1", 
+            "end_note": 412, 
+            "melodic_structure": "D2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 413, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Ni\u00e7in neden gelmedin  ", 
+            "lyric_structure": "I1", 
+            "end_note": 419, 
+            "melodic_structure": "E2", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "name": {}
+}
