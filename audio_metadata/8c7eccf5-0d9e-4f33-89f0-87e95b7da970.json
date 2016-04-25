@@ -1,0 +1,114 @@
+{
+    "section_annotations": [
+        {
+            "melodicStructure": "A1", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "time_unit": "sec", 
+            "name": "aranagme", 
+            "time": [
+                0.6501587302, 
+                10.86693878
+            ]
+        }, 
+        {
+            "melodicStructure": "A1", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "time_unit": "sec", 
+            "name": "aranagme", 
+            "time": [
+                11.19201814, 
+                21.59455782
+            ]
+        }, 
+        {
+            "melodicStructure": "B1", 
+            "lyricStructure": "B1", 
+            "time_unit": "sec", 
+            "name": "zemin", 
+            "time": [
+                21.91963719, 
+                32.32217687
+            ]
+        }, 
+        {
+            "melodicStructure": "C1", 
+            "lyricStructure": "B1", 
+            "time_unit": "sec", 
+            "name": "zemin", 
+            "time": [
+                32.74013605, 
+                43.14267574
+            ]
+        }, 
+        {
+            "melodicStructure": "D1", 
+            "lyricStructure": "C1", 
+            "time_unit": "sec", 
+            "name": "nakarat", 
+            "time": [
+                49.08698413, 
+                59.72172336
+            ]
+        }, 
+        {
+            "melodicStructure": "A1", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "time_unit": "sec", 
+            "name": "aranagme", 
+            "time": [
+                59.81460317, 
+                70.63510204
+            ]
+        }, 
+        {
+            "melodicStructure": "A1", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "time_unit": "sec", 
+            "name": "aranagme", 
+            "time": [
+                70.86730159, 
+                81.31628118
+            ]
+        }, 
+        {
+            "melodicStructure": "B1", 
+            "lyricStructure": "D1", 
+            "time_unit": "sec", 
+            "name": "zemin", 
+            "time": [
+                81.59492063, 
+                92.46185941
+            ]
+        }, 
+        {
+            "melodicStructure": "C1", 
+            "lyricStructure": "D1", 
+            "time_unit": "sec", 
+            "name": "zemin", 
+            "time": [
+                92.69405896, 
+                103.2359184
+            ]
+        }, 
+        {
+            "melodicStructure": "D1", 
+            "lyricStructure": "C1", 
+            "time_unit": "sec", 
+            "name": "nakarat", 
+            "time": [
+                109.2266667, 
+                120.2329252
+            ]
+        }, 
+        {
+            "melodicStructure": "D1", 
+            "lyricStructure": "C1", 
+            "time_unit": "sec", 
+            "name": "nakarat", 
+            "time": [
+                120.2793651, 
+                133.1896599
+            ]
+        }
+    ]
+}
