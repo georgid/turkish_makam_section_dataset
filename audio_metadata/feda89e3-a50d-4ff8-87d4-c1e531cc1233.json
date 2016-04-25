@@ -1,7 +1,7 @@
 {
     "section_annotations": [
         {
-            "melodicStructure": "ARANAGME_1", 
+            "melodicStructure": "A1", 
             "lyricStructure": "INSTRUMENTAL", 
             "time_unit": "sec", 
             "name": "aranagme", 
@@ -11,7 +11,7 @@
             ]
         }, 
         {
-            "melodicStructure": "ARANAGME_1", 
+            "melodicStructure": "A1", 
             "lyricStructure": "INSTRUMENTAL", 
             "time_unit": "sec", 
             "name": "aranagme", 
@@ -71,7 +71,7 @@
             ]
         }, 
         {
-            "melodicStructure": "F1", 
+            "melodicStructure": "E2", 
             "lyricStructure": "D1", 
             "time_unit": "sec", 
             "name": "meyan", 
@@ -81,7 +81,7 @@
             ]
         }, 
         {
-            "melodicStructure": "C1", 
+            "melodicStructure": "CF1", 
             "lyricStructure": "C1", 
             "time_unit": "sec", 
             "name": "nakarat", 
@@ -91,7 +91,7 @@
             ]
         }, 
         {
-            "melodicStructure": "D2", 
+            "melodicStructure": "DF1", 
             "lyricStructure": "C1", 
             "time_unit": "sec", 
             "name": "nakarat", 

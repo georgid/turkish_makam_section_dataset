@@ -8,7 +8,7 @@
     ], 
     "section_annotations": [
         {
-            "melodicStructure": "ARANAGME_1", 
+            "melodicStructure": "A1", 
             "time": [
                 0.444305, 
                 28.534242
@@ -18,7 +18,7 @@
             "name": "Aranagme"
         }, 
         {
-            "melodicStructure": "ARANAGME_1", 
+            "melodicStructure": "A1", 
             "time": [
                 28.534242, 
                 51.35423
@@ -78,7 +78,7 @@
             "name": "Meyan"
         }, 
         {
-            "melodicStructure": "F1", 
+            "melodicStructure": "E2", 
             "time": [
                 154.593387, 
                 175.031408
@@ -88,7 +88,7 @@
             "name": "Meyan"
         }, 
         {
-            "melodicStructure": "C1", 
+            "melodicStructure": "CF1", 
             "time": [
                 175.031408, 
                 195.469429
@@ -98,7 +98,7 @@
             "name": "Nakarat"
         }, 
         {
-            "melodicStructure": "D2", 
+            "melodicStructure": "DF1", 
             "time": [
                 195.469429, 
                 216.475173

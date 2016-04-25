@@ -1,0 +1,292 @@
+{
+    "symbtr": "nihavent--sarki--aksak--gel_guzelim--faiz_kapanci", 
+    "makam": {
+        "attribute_key": "nihavent", 
+        "symbtr_slug": "nihavent"
+    }, 
+    "form": {
+        "attribute_key": "sarki", 
+        "symbtr_slug": "sarki"
+    }, 
+    "lyricist": {}, 
+    "tonic": "G4", 
+    "rhythmic_structure": [], 
+    "phrase_annotations": [], 
+    "number_of_notes": 358, 
+    "composer": {
+        "symbtr_slug": "faiz_kapanci"
+    }, 
+    "duration": {
+        "unit": "second", 
+        "value": 120.50200000000001
+    }, 
+    "segmentations": [
+        {
+            "start_note": 1, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 64, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 0
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 65, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 128, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 1
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 129, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Gel g\u00fczelim \u00c7aml\u0131caya bu gece  ", 
+            "melodic_structure": "B1", 
+            "lyric_structure": "B1", 
+            "end_note": 160, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 2
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 161, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Gel g\u00fczelim \u00c7aml\u0131caya bu gece  ", 
+            "melodic_structure": "B2", 
+            "lyric_structure": "B1", 
+            "end_note": 190, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B2", 
+                    "section_idx": 3
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 191, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "G\u00fcn do\u011fmadan a can\u0131m g\u00f6r\u00fc\u015felim gizlice  ", 
+            "melodic_structure": "C1", 
+            "lyric_structure": "C1", 
+            "end_note": 216, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 4
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 217, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "G\u00fcn do\u011fmadan a can\u0131m g\u00f6r\u00fc\u015felim gizlice  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "C1", 
+            "end_note": 243, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 5
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 244, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "B\u00fclb\u00fcllerin efgan\u0131n\u0131 dinleyelim yanyana  ", 
+            "melodic_structure": "E1", 
+            "lyric_structure": "D1", 
+            "end_note": 274, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 6
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 275, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "B\u00fclb\u00fcllerin efgan\u0131n\u0131 dinleyelim yanyana  ", 
+            "melodic_structure": "F1", 
+            "lyric_structure": "D1", 
+            "end_note": 307, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 7
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 308, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Kumru gibi a can\u0131m sevi\u015felim can cana  ", 
+            "melodic_structure": "C2", 
+            "lyric_structure": "E1", 
+            "end_note": 332, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "E1", 
+                    "melodic_structure": "C2", 
+                    "section_idx": 8
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 333, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Kumru gibi a can\u0131m sevi\u015felim can cana  ", 
+            "melodic_structure": "D2", 
+            "lyric_structure": "E1", 
+            "end_note": 358, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "E1", 
+                    "melodic_structure": "D2", 
+                    "section_idx": 9
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }
+    ], 
+    "usul": {
+        "attribute_key": "aksak", 
+        "symbtr_slug": "aksak"
+    }, 
+    "sections": [
+        {
+            "start_note": 1, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 64, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 65, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 128, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 129, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Gel g\u00fczelim \u00c7aml\u0131caya bu gece  ", 
+            "lyric_structure": "B1", 
+            "end_note": 160, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 161, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Gel g\u00fczelim \u00c7aml\u0131caya bu gece  ", 
+            "lyric_structure": "B1", 
+            "end_note": 190, 
+            "melodic_structure": "B2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 191, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "G\u00fcn do\u011fmadan a can\u0131m g\u00f6r\u00fc\u015felim gizlice  ", 
+            "lyric_structure": "C1", 
+            "end_note": 216, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 217, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "G\u00fcn do\u011fmadan a can\u0131m g\u00f6r\u00fc\u015felim gizlice  ", 
+            "lyric_structure": "C1", 
+            "end_note": 243, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 244, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "B\u00fclb\u00fcllerin efgan\u0131n\u0131 dinleyelim yanyana  ", 
+            "lyric_structure": "D1", 
+            "end_note": 274, 
+            "melodic_structure": "E1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 275, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "B\u00fclb\u00fcllerin efgan\u0131n\u0131 dinleyelim yanyana  ", 
+            "lyric_structure": "D1", 
+            "end_note": 307, 
+            "melodic_structure": "F1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 308, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Kumru gibi a can\u0131m sevi\u015felim can cana  ", 
+            "lyric_structure": "E1", 
+            "end_note": 332, 
+            "melodic_structure": "C2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 333, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Kumru gibi a can\u0131m sevi\u015felim can cana  ", 
+            "lyric_structure": "E1", 
+            "end_note": 358, 
+            "melodic_structure": "D2", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "name": {}
+}

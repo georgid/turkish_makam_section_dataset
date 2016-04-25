@@ -1,0 +1,312 @@
+{
+    "symbtr": "nihavent--sarki--kapali_curcuna--kimseye_etmem--kemani_sarkis_efendi", 
+    "makam": {
+        "attribute_key": "nihavent", 
+        "symbtr_slug": "nihavent"
+    }, 
+    "form": {
+        "attribute_key": "sarki", 
+        "symbtr_slug": "sarki"
+    }, 
+    "lyricist": {}, 
+    "tonic": "G4", 
+    "rhythmic_structure": [], 
+    "phrase_annotations": [], 
+    "number_of_notes": 427, 
+    "composer": {
+        "symbtr_slug": "kemani_sarkis_efendi"
+    }, 
+    "duration": {
+        "unit": "second", 
+        "value": 208.762
+    }, 
+    "segmentations": [
+        {
+            "start_note": 1, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 56, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 0
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 57, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 112, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 1
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 113, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Kimseye etmem \u015fik\u00e2yet a\u011flar\u0131m ben halime  ", 
+            "melodic_structure": "B1", 
+            "lyric_structure": "B1", 
+            "end_note": 145, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 2
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 146, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Kimseye etmem \u015fik\u00e2yet a\u011flar\u0131m ben halime  ", 
+            "melodic_structure": "B2", 
+            "lyric_structure": "B1", 
+            "end_note": 178, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B2", 
+                    "section_idx": 3
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 179, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Titrerim m\u00fccrim gibi bakt\u0131k\u00e7a istikbalime  ", 
+            "melodic_structure": "C1", 
+            "lyric_structure": "C1", 
+            "end_note": 220, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 4
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 221, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Titrerim m\u00fccrim gibi bakt\u0131k\u00e7a istikbalime  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "C1", 
+            "end_note": 263, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 5
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 264, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Perde i zulmet \u00e7ekilmi\u015f korkar\u0131m ikbalime  ", 
+            "melodic_structure": "E1", 
+            "lyric_structure": "D1", 
+            "end_note": 307, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 5
+                }, 
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 6
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 308, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Perde i zulmet \u00e7ekilmi\u015f korkar\u0131m ikbalime  ", 
+            "melodic_structure": "E2", 
+            "lyric_structure": "D1", 
+            "end_note": 347, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 6
+                }, 
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 7
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 348, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Titrerim m\u00fccrim gibi bakt\u0131k\u00e7a istikbalime  ", 
+            "melodic_structure": "CF1", 
+            "lyric_structure": "C1", 
+            "end_note": 389, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 7
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 8
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 390, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Titrerim m\u00fccrim gibi bakt\u0131k\u00e7a istikbalime  ", 
+            "melodic_structure": "DF1", 
+            "lyric_structure": "C1", 
+            "end_note": 427, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 8
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D2", 
+                    "section_idx": 9
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }
+    ], 
+    "usul": {
+        "attribute_key": "kapali_curcuna", 
+        "symbtr_slug": "kapali_curcuna"
+    }, 
+    "sections": [
+        {
+            "start_note": 1, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 56, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 57, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 112, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 113, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Kimseye etmem \u015fik\u00e2yet a\u011flar\u0131m ben halime  ", 
+            "lyric_structure": "B1", 
+            "end_note": 145, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 146, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Kimseye etmem \u015fik\u00e2yet a\u011flar\u0131m ben halime  ", 
+            "lyric_structure": "B1", 
+            "end_note": 178, 
+            "melodic_structure": "B2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 179, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Titrerim m\u00fccrim gibi bakt\u0131k\u00e7a istikbalime  ", 
+            "lyric_structure": "C1", 
+            "end_note": 220, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 221, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Titrerim m\u00fccrim gibi bakt\u0131k\u00e7a istikbalime  ", 
+            "lyric_structure": "C1", 
+            "end_note": 264, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 265, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Perde i zulmet \u00e7ekilmi\u015f korkar\u0131m ikbalime  ", 
+            "lyric_structure": "D1", 
+            "end_note": 309, 
+            "melodic_structure": "E1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 310, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Perde i zulmet \u00e7ekilmi\u015f korkar\u0131m ikbalime  ", 
+            "lyric_structure": "D1", 
+            "end_note": 349, 
+            "melodic_structure": "F1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 350, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Titrerim m\u00fccrim gibi bakt\u0131k\u00e7a istikbalime  ", 
+            "lyric_structure": "C1", 
+            "end_note": 391, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 392, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Titrerim m\u00fccrim gibi bakt\u0131k\u00e7a istikbalime  ", 
+            "lyric_structure": "C1", 
+            "end_note": 427, 
+            "melodic_structure": "D2", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "name": {}
+}

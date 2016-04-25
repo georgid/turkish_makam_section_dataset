@@ -1,0 +1,244 @@
+{
+    "symbtr": "nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey", 
+    "makam": {
+        "attribute_key": "nihavent", 
+        "symbtr_slug": "nihavent"
+    }, 
+    "form": {
+        "attribute_key": "sarki", 
+        "symbtr_slug": "sarki"
+    }, 
+    "lyricist": {}, 
+    "tonic": "G4", 
+    "rhythmic_structure": [], 
+    "phrase_annotations": [], 
+    "number_of_notes": 259, 
+    "composer": {
+        "symbtr_slug": "haci_arif_bey"
+    }, 
+    "duration": {
+        "unit": "second", 
+        "value": 78.683
+    }, 
+    "segmentations": [
+        {
+            "start_note": 1, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Bakm\u0131yor \u00e7e\u015fm_i siyah fery\u00e2de  ", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "A1", 
+            "end_note": 37, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "A1", 
+                    "melodic_structure": "A1", 
+                    "section_idx": 0
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 38, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Bakm\u0131yor \u00e7e\u015fm_i siyah fery\u00e2de  ", 
+            "melodic_structure": "A2", 
+            "lyric_structure": "A1", 
+            "end_note": 68, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "A1", 
+                    "melodic_structure": "A1", 
+                    "section_idx": 0
+                }, 
+                {
+                    "lyric_structure": "A1", 
+                    "melodic_structure": "A2", 
+                    "section_idx": 1
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 69, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Yeti\u015f_ey gamze yeti\u015f imd\u00e2de  ", 
+            "melodic_structure": "B1", 
+            "lyric_structure": "B1", 
+            "end_note": 107, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "A1", 
+                    "melodic_structure": "A2", 
+                    "section_idx": 1
+                }, 
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 2
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 108, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Yeti\u015f_ey gamze yeti\u015f imd\u00e2de  ", 
+            "melodic_structure": "C1", 
+            "lyric_structure": "B1", 
+            "end_note": 142, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 2
+                }, 
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 3
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 143, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Gelmiyor han\u00e7er_i ebr\u00fb d\u00e2de  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "C1", 
+            "end_note": 179, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 3
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 4
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 180, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Yeti\u015f_ey gamze yeti\u015f imd\u00e2de  ", 
+            "melodic_structure": "E1", 
+            "lyric_structure": "B1", 
+            "end_note": 214, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 4
+                }, 
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 5
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 215, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Yeti\u015f_ey gamze yeti\u015f imd\u00e2de  ", 
+            "melodic_structure": "C2", 
+            "lyric_structure": "B1", 
+            "end_note": 259, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 5
+                }, 
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "C2", 
+                    "section_idx": 6
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }
+    ], 
+    "usul": {
+        "attribute_key": "aksak", 
+        "symbtr_slug": "aksak"
+    }, 
+    "sections": [
+        {
+            "start_note": 1, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Bakm\u0131yor \u00e7e\u015fm_i siyah fery\u00e2de  ", 
+            "lyric_structure": "A1", 
+            "end_note": 38, 
+            "melodic_structure": "A1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 39, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Bakm\u0131yor \u00e7e\u015fm_i siyah fery\u00e2de  ", 
+            "lyric_structure": "A1", 
+            "end_note": 71, 
+            "melodic_structure": "A2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 72, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Yeti\u015f_ey gamze yeti\u015f imd\u00e2de  ", 
+            "lyric_structure": "B1", 
+            "end_note": 109, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 110, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Yeti\u015f_ey gamze yeti\u015f imd\u00e2de  ", 
+            "lyric_structure": "B1", 
+            "end_note": 147, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 148, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Gelmiyor han\u00e7er_i ebr\u00fb d\u00e2de  ", 
+            "lyric_structure": "C1", 
+            "end_note": 184, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 185, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Yeti\u015f_ey gamze yeti\u015f imd\u00e2de  ", 
+            "lyric_structure": "B1", 
+            "end_note": 221, 
+            "melodic_structure": "E1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 222, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Yeti\u015f_ey gamze yeti\u015f imd\u00e2de  ", 
+            "lyric_structure": "B1", 
+            "end_note": 259, 
+            "melodic_structure": "C2", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "name": {}
+}
