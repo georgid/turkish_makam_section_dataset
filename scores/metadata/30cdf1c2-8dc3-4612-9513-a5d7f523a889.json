@@ -22,7 +22,7 @@
     }, 
     "segmentations": [
         {
-            "start_note": 1, 
+            "start_note": 2, 
             "name": "INSTRUMENTAL_SEGMENT", 
             "lyrics": "", 
             "melodic_structure": "A1", 
