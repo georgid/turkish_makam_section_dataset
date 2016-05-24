@@ -1,0 +1,501 @@
+{
+    "symbtr": "ussak--sarki--aksak--bu_aksam_gun--tatyos_efendi", 
+    "makam": {
+        "attribute_key": "ussak", 
+        "symbtr_slug": "ussak"
+    }, 
+    "form": {
+        "attribute_key": "sarki", 
+        "symbtr_slug": "sarki"
+    }, 
+    "lyricist": {}, 
+    "tonic": "A4", 
+    "rhythmic_structure": [], 
+    "phrase_annotations": [], 
+    "number_of_notes": 388, 
+    "composer": {
+        "symbtr_slug": "tatyos_efendi"
+    }, 
+    "duration": {
+        "unit": "second", 
+        "value": 126.008
+    }, 
+    "segmentations": [
+        {
+            "start_note": 1, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A1", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 40, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 0
+                }, 
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 1
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 41, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A2", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 78, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 1
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 79, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Bu ak\u015fam g\u00fcn batarken gel  Bu ak\u015fam g\u00fcn batarken gel  ", 
+            "melodic_structure": "B1", 
+            "lyric_structure": "B1", 
+            "end_note": 108, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 2
+                }, 
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 3
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 4
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 109, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Sak\u0131n ge\u00e7 kalma erken gel  Aman ge\u00e7 kalma erken gel  ", 
+            "melodic_structure": "C1", 
+            "lyric_structure": "C1", 
+            "end_note": 138, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 4
+                }, 
+                {
+                    "lyric_structure": "C2", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 5
+                }, 
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 6
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 139, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Tahamm\u00fcl kalmad\u0131 art\u0131k  Tahamm\u00fcl kalmad\u0131 art\u0131k  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "D1", 
+            "end_note": 171, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 6
+                }, 
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "G1", 
+                    "section_idx": 7
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 8
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 172, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Sak\u0131n ge\u00e7 kalma erken gel  Aman ge\u00e7 kalma erken gel  ", 
+            "melodic_structure": "C2", 
+            "lyric_structure": "C1", 
+            "end_note": 195, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 8
+                }, 
+                {
+                    "lyric_structure": "C2", 
+                    "melodic_structure": "E2", 
+                    "section_idx": 9
+                }, 
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 10
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 196, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A3", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 234, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 10
+                }, 
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 11
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 235, 
+            "name": "INSTRUMENTAL_SEGMENT", 
+            "lyrics": "", 
+            "melodic_structure": "A2", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 272, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "INSTRUMENTAL", 
+                    "melodic_structure": "ARANAGME_1", 
+                    "section_idx": 11
+                }
+            ], 
+            "slug": "INSTRUMENTAL_SEGMENT"
+        }, 
+        {
+            "start_note": 273, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Bu ak\u015fam g\u00fcn batarken gel  Bu ak\u015fam g\u00fcn batarken gel  ", 
+            "melodic_structure": "B1", 
+            "lyric_structure": "B1", 
+            "end_note": 302, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "B1", 
+                    "section_idx": 12
+                }, 
+                {
+                    "lyric_structure": "B1", 
+                    "melodic_structure": "C1", 
+                    "section_idx": 13
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 14
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 303, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Sak\u0131n ge\u00e7 kalma erken gel  Aman ge\u00e7 kalma erken gel  ", 
+            "melodic_structure": "C1", 
+            "lyric_structure": "C1", 
+            "end_note": 332, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 14
+                }, 
+                {
+                    "lyric_structure": "C2", 
+                    "melodic_structure": "E1", 
+                    "section_idx": 15
+                }, 
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 16
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 333, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Tahamm\u00fcl kalmad\u0131 art\u0131k  Tahamm\u00fcl kalmad\u0131 art\u0131k  ", 
+            "melodic_structure": "D1", 
+            "lyric_structure": "D1", 
+            "end_note": 365, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "F1", 
+                    "section_idx": 16
+                }, 
+                {
+                    "lyric_structure": "D1", 
+                    "melodic_structure": "G1", 
+                    "section_idx": 17
+                }, 
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 18
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }, 
+        {
+            "start_note": 366, 
+            "name": "VOCAL_SEGMENT", 
+            "lyrics": "Sak\u0131n ge\u00e7 kalma erken gel  Aman ge\u00e7 kalma erken gel  ", 
+            "melodic_structure": "C3", 
+            "lyric_structure": "C1", 
+            "end_note": 388, 
+            "flavor": [], 
+            "sections": [
+                {
+                    "lyric_structure": "C1", 
+                    "melodic_structure": "D1", 
+                    "section_idx": 18
+                }, 
+                {
+                    "lyric_structure": "C2", 
+                    "melodic_structure": "E2", 
+                    "section_idx": 19
+                }
+            ], 
+            "slug": "VOCAL_SEGMENT"
+        }
+    ], 
+    "usul": {
+        "attribute_key": "aksak", 
+        "symbtr_slug": "aksak"
+    }, 
+    "sections": [
+        {
+            "start_note": 1, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 39, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 40, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 78, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 79, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Bu ak\u015fam g\u00fcn batarken gel  ", 
+            "lyric_structure": "B1", 
+            "end_note": 96, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 97, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Bu ak\u015fam g\u00fcn batarken gel  ", 
+            "lyric_structure": "B1", 
+            "end_note": 107, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 108, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Sak\u0131n ge\u00e7 kalma erken gel  ", 
+            "lyric_structure": "C1", 
+            "end_note": 117, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 118, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Aman ge\u00e7 kalma erken gel  ", 
+            "lyric_structure": "C2", 
+            "end_note": 137, 
+            "melodic_structure": "E1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 138, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Tahamm\u00fcl kalmad\u0131 art\u0131k  ", 
+            "lyric_structure": "D1", 
+            "end_note": 153, 
+            "melodic_structure": "F1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 154, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Tahamm\u00fcl kalmad\u0131 art\u0131k  ", 
+            "lyric_structure": "D1", 
+            "end_note": 170, 
+            "melodic_structure": "G1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 171, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Sak\u0131n ge\u00e7 kalma erken gel  ", 
+            "lyric_structure": "C1", 
+            "end_note": 180, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 181, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Aman ge\u00e7 kalma erken gel  ", 
+            "lyric_structure": "C2", 
+            "end_note": 194, 
+            "melodic_structure": "E2", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 195, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 233, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 234, 
+            "name": "ARANA\u011eME", 
+            "lyrics": "", 
+            "lyric_structure": "INSTRUMENTAL", 
+            "end_note": 272, 
+            "melodic_structure": "ARANAGME_1", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "start_note": 273, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Bu ak\u015fam g\u00fcn batarken gel  ", 
+            "lyric_structure": "B1", 
+            "end_note": 290, 
+            "melodic_structure": "B1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 291, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Bu ak\u015fam g\u00fcn batarken gel  ", 
+            "lyric_structure": "B1", 
+            "end_note": 301, 
+            "melodic_structure": "C1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 302, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Sak\u0131n ge\u00e7 kalma erken gel  ", 
+            "lyric_structure": "C1", 
+            "end_note": 311, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 312, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Aman ge\u00e7 kalma erken gel  ", 
+            "lyric_structure": "C2", 
+            "end_note": 331, 
+            "melodic_structure": "E1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 332, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Tahamm\u00fcl kalmad\u0131 art\u0131k  ", 
+            "lyric_structure": "D1", 
+            "end_note": 347, 
+            "melodic_structure": "F1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 348, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Tahamm\u00fcl kalmad\u0131 art\u0131k  ", 
+            "lyric_structure": "D1", 
+            "end_note": 364, 
+            "melodic_structure": "G1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 365, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Sak\u0131n ge\u00e7 kalma erken gel  ", 
+            "lyric_structure": "C1", 
+            "end_note": 374, 
+            "melodic_structure": "D1", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "start_note": 375, 
+            "name": "VOCAL_SECTION", 
+            "lyrics": "Aman ge\u00e7 kalma erken gel  ", 
+            "lyric_structure": "C2", 
+            "end_note": 388, 
+            "melodic_structure": "E2", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "name": {}
+}
