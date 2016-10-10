@@ -51,7 +51,7 @@
             ]
         }, 
         {
-            "melodicStructure": "D1", 
+            "melodicStructure": "C2", 
             "lyricStructure": "C1", 
             "time_unit": "sec", 
             "name": "nakarat", 
@@ -61,7 +61,7 @@
             ]
         }, 
         {
-            "melodicStructure": "E1", 
+            "melodicStructure": "D1", 
             "lyricStructure": "D1", 
             "time_unit": "sec", 
             "name": "meyan", 
@@ -71,7 +71,7 @@
             ]
         }, 
         {
-            "melodicStructure": "E2", 
+            "melodicStructure": "D2", 
             "lyricStructure": "D1", 
             "time_unit": "sec", 
             "name": "meyan", 
@@ -81,7 +81,7 @@
             ]
         }, 
         {
-            "melodicStructure": "CF1", 
+            "melodicStructure": "C1", 
             "lyricStructure": "C1", 
             "time_unit": "sec", 
             "name": "nakarat", 
@@ -91,7 +91,7 @@
             ]
         }, 
         {
-            "melodicStructure": "DF1", 
+            "melodicStructure": "C3", 
             "lyricStructure": "C1", 
             "time_unit": "sec", 
             "name": "nakarat", 
