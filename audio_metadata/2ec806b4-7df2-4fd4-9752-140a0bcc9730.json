@@ -1,169 +1,200 @@
 {
-    "instrumentation": "solo singing", 
-    "work_relations": [
-        {
-            "mbid": "12567f93-4ae7-4198-a55b-1422b7a3935c", 
-            "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme"
-        }
-    ], 
-    "symbTr": "segah--sarki--curcuna--olmaz_ilac--haci_arif_bey", 
-    "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme", 
     "section_annotations": [
         {
+            "melodicStructure": "ARANAGME_1", 
+            "lyricStructure": "INSTRUMENTAL", 
             "time_unit": "sec", 
-            "name": "Aranagme", 
+            "name": "aranagme", 
             "time": [
                 0.28989, 
                 11.194209
             ]
         }, 
         {
+            "melodicStructure": "ARANAGME_1", 
+            "lyricStructure": "INSTRUMENTAL", 
             "time_unit": "sec", 
-            "name": "Aranagme", 
+            "name": "aranagme", 
             "time": [
                 11.194209, 
                 21.78634
             ]
         }, 
         {
+            "melodicStructure": "B1", 
+            "lyricStructure": "B1", 
             "time_unit": "sec", 
-            "name": "Zemin", 
+            "name": "zemin", 
             "time": [
                 21.78634, 
                 30.059351
             ]
         }, 
         {
+            "melodicStructure": "C1", 
+            "lyricStructure": "B1", 
             "time_unit": "sec", 
-            "name": "Zemin2", 
+            "name": "zemin2", 
             "time": [
                 30.059351, 
                 41.186663
             ]
         }, 
         {
+            "melodicStructure": "D1", 
+            "lyricStructure": "C1", 
             "time_unit": "sec", 
-            "name": "Nakarat", 
+            "name": "nakarat", 
             "time": [
                 41.186663, 
                 49.660367
             ]
         }, 
         {
+            "melodicStructure": "E1", 
+            "lyricStructure": "C1", 
             "time_unit": "sec", 
-            "name": "Nakarat2", 
+            "name": "nakarat2", 
             "time": [
                 49.660367, 
                 60.575836
             ]
         }, 
         {
+            "melodicStructure": "F1", 
+            "lyricStructure": "D1", 
             "time_unit": "sec", 
-            "name": "Meyan", 
+            "name": "meyan", 
             "time": [
                 60.575836, 
                 69.194485
             ]
         }, 
         {
+            "melodicStructure": "G1", 
+            "lyricStructure": "D1", 
             "time_unit": "sec", 
-            "name": "Meyan2", 
+            "name": "meyan2", 
             "time": [
                 69.194485, 
                 79.909261
             ]
         }, 
         {
+            "melodicStructure": "D2", 
+            "lyricStructure": "C1", 
             "time_unit": "sec", 
-            "name": "Nakarat", 
+            "name": "nakarat", 
             "time": [
                 79.909261, 
                 88.516761
             ]
         }, 
         {
+            "melodicStructure": "E2", 
+            "lyricStructure": "C1", 
             "time_unit": "sec", 
-            "name": "Nakarat3", 
+            "name": "nakarat3", 
             "time": [
                 88.516761, 
                 96.800922
             ]
         }, 
         {
+            "melodicStructure": "ARANAGME_1", 
+            "lyricStructure": "INSTRUMENTAL", 
             "time_unit": "sec", 
-            "name": "Aranagme", 
+            "name": "aranagme", 
             "time": [
                 96.800922, 
                 107.682942
             ]
         }, 
         {
+            "melodicStructure": "ARANAGME_1", 
+            "lyricStructure": "INSTRUMENTAL", 
             "time_unit": "sec", 
-            "name": "Aranagme", 
+            "name": "aranagme", 
             "time": [
                 107.682942, 
                 118.49249
             ]
         }, 
         {
+            "melodicStructure": "B1", 
+            "lyricStructure": "E1", 
             "time_unit": "sec", 
-            "name": "Zemin", 
+            "name": "zemin", 
             "time": [
                 118.49249, 
                 126.839368
             ]
         }, 
         {
+            "melodicStructure": "C1", 
+            "lyricStructure": "E1", 
             "time_unit": "sec", 
-            "name": "Zemin2", 
+            "name": "zemin2", 
             "time": [
                 126.839368, 
                 137.867726
             ]
         }, 
         {
+            "melodicStructure": "D1", 
+            "lyricStructure": "F1", 
             "time_unit": "sec", 
-            "name": "Nakarat", 
+            "name": "nakarat", 
             "time": [
                 137.867726, 
                 146.171399
             ]
         }, 
         {
+            "melodicStructure": "E1", 
+            "lyricStructure": "F1", 
             "time_unit": "sec", 
-            "name": "Nakarat2", 
+            "name": "nakarat2", 
             "time": [
                 146.171399, 
                 157.120317
             ]
         }, 
         {
+            "melodicStructure": "F1", 
+            "lyricStructure": "G1", 
             "time_unit": "sec", 
-            "name": "Meyan", 
+            "name": "meyan", 
             "time": [
                 157.120317, 
                 165.691581
             ]
         }, 
         {
+            "melodicStructure": "G1", 
+            "lyricStructure": "G1", 
             "time_unit": "sec", 
-            "name": "Meyan2", 
+            "name": "meyan2", 
             "time": [
                 165.691581, 
                 176.827254
             ]
         }, 
         {
+            "melodicStructure": "D2", 
+            "lyricStructure": "C1", 
             "time_unit": "sec", 
-            "name": "Nakarat", 
+            "name": "nakarat", 
             "time": [
                 176.827254, 
                 185.083541
             ]
         }, 
         {
+            "melodicStructure": "E2", 
+            "lyricStructure": "C1", 
             "time_unit": "sec", 
-            "name": "Nakarat3", 
+            "name": "nakarat3", 
             "time": [
                 185.083541, 
                 196.043609
